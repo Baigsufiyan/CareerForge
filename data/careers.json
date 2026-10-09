@@ -1,0 +1,2175 @@
+{
+  "traits": {
+    "code": "Building apps, websites or tools",
+    "data": "Working with numbers and finding patterns",
+    "math": "Maths, experiments and research",
+    "systems": "Setting up computers, networks and servers",
+    "security": "Investigating problems and protecting things",
+    "mobile": "Using and improving phone apps",
+    "users": "Understanding people and making things easy to use",
+    "visual": "Drawing, colours and visual design",
+    "video": "Filming and editing videos",
+    "writing": "Writing and storytelling",
+    "social": "Social media and online trends",
+    "promote": "Promoting, selling and growing things",
+    "people": "Talking to, helping and hiring people",
+    "money": "Money, accounts and budgets",
+    "organize": "Planning, organising and improving processes"
+  },
+  "questions": [
+    {
+      "question": "Which activities do you enjoy?",
+      "options": [
+        {
+          "text": "Building a website, app or small tool",
+          "trait": "code"
+        },
+        {
+          "text": "Finding patterns in numbers or spreadsheets",
+          "trait": "data"
+        },
+        {
+          "text": "Designing posters, logos or layouts",
+          "trait": "visual"
+        },
+        {
+          "text": "Filming or editing videos",
+          "trait": "video"
+        },
+        {
+          "text": "Writing posts, stories or articles",
+          "trait": "writing"
+        },
+        {
+          "text": "Talking to people and helping them",
+          "trait": "people"
+        },
+        {
+          "text": "Planning events or organising things",
+          "trait": "organize"
+        },
+        {
+          "text": "Fixing computers, Wi-Fi or devices",
+          "trait": "systems"
+        }
+      ]
+    },
+    {
+      "question": "Which subjects did you like most?",
+      "options": [
+        {
+          "text": "Mathematics or statistics",
+          "trait": "math"
+        },
+        {
+          "text": "Computer science",
+          "trait": "code"
+        },
+        {
+          "text": "Commerce, accounting or economics",
+          "trait": "money"
+        },
+        {
+          "text": "Arts or design",
+          "trait": "visual"
+        },
+        {
+          "text": "Languages, literature or media",
+          "trait": "writing"
+        },
+        {
+          "text": "Psychology or sociology",
+          "trait": "users"
+        },
+        {
+          "text": "Business or management",
+          "trait": "organize"
+        },
+        {
+          "text": "Physics or electronics",
+          "trait": "systems"
+        }
+      ]
+    },
+    {
+      "question": "On a free weekend, what could you happily do for hours?",
+      "options": [
+        {
+          "text": "Solving puzzles, mysteries or hacking challenges",
+          "trait": "security"
+        },
+        {
+          "text": "Studying why some posts go viral",
+          "trait": "social"
+        },
+        {
+          "text": "Making reels or YouTube videos",
+          "trait": "video"
+        },
+        {
+          "text": "Playing with an idea for a phone app or game",
+          "trait": "mobile"
+        },
+        {
+          "text": "Reading about money, stocks or budgets",
+          "trait": "money"
+        },
+        {
+          "text": "Trying to sell something or grow a page",
+          "trait": "promote"
+        },
+        {
+          "text": "Learning how AI and robots work",
+          "trait": "math"
+        },
+        {
+          "text": "Redesigning an app screen that annoys you",
+          "trait": "users"
+        }
+      ]
+    },
+    {
+      "question": "Which of these have you already done, even a little?",
+      "options": [
+        {
+          "text": "Written code in any language",
+          "trait": "code"
+        },
+        {
+          "text": "Made charts or formulas in Excel or Sheets",
+          "trait": "data"
+        },
+        {
+          "text": "Designed in Canva, Figma or Photoshop",
+          "trait": "visual"
+        },
+        {
+          "text": "Edited a video",
+          "trait": "video"
+        },
+        {
+          "text": "Run a social media page or blog",
+          "trait": "social"
+        },
+        {
+          "text": "Run ads or promoted something online",
+          "trait": "promote"
+        },
+        {
+          "text": "Kept accounts or managed a budget",
+          "trait": "money"
+        },
+        {
+          "text": "Interviewed, hired or led a team",
+          "trait": "people"
+        },
+        {
+          "text": "Set up a server, network or Linux",
+          "trait": "systems"
+        }
+      ]
+    },
+    {
+      "question": "What kind of work day sounds best?",
+      "options": [
+        {
+          "text": "Deep focus, building and debugging",
+          "trait": "code"
+        },
+        {
+          "text": "Analysing data and reporting insights",
+          "trait": "data"
+        },
+        {
+          "text": "Creative work with visuals",
+          "trait": "visual"
+        },
+        {
+          "text": "Meeting people and coordinating",
+          "trait": "people"
+        },
+        {
+          "text": "Keeping systems running and secure",
+          "trait": "security"
+        },
+        {
+          "text": "Creating content and engaging an audience",
+          "trait": "social"
+        },
+        {
+          "text": "Planning projects and improving how work is done",
+          "trait": "organize"
+        },
+        {
+          "text": "Working with numbers, budgets and compliance",
+          "trait": "money"
+        }
+      ]
+    },
+    {
+      "question": "Which result would make you proudest?",
+      "options": [
+        {
+          "text": "An app thousands of people use",
+          "trait": "mobile"
+        },
+        {
+          "text": "A model that predicts something accurately",
+          "trait": "math"
+        },
+        {
+          "text": "A campaign that brought in many customers",
+          "trait": "promote"
+        },
+        {
+          "text": "A design users say is easy to use",
+          "trait": "users"
+        },
+        {
+          "text": "A video or post with a million views",
+          "trait": "video"
+        },
+        {
+          "text": "Hiring a great team",
+          "trait": "people"
+        },
+        {
+          "text": "Stopping a cyber attack",
+          "trait": "security"
+        },
+        {
+          "text": "A business that runs smoothly and saves money",
+          "trait": "organize"
+        }
+      ]
+    }
+  ],
+  "careers": [
+    {
+      "name": "Software Developer",
+      "area": "Software Development",
+      "skills": [
+        "Programming Fundamentals",
+        "Git",
+        "DSA",
+        "SQL",
+        "JavaScript",
+        "REST APIs",
+        "Software Testing"
+      ],
+      "professional": [
+        "Problem solving",
+        "Teamwork",
+        "Code review etiquette",
+        "Clear technical communication"
+      ],
+      "projects": [
+        "Task manager web app with login",
+        "REST API for a library system",
+        "Personal portfolio website"
+      ],
+      "certifications": [
+        {
+          "name": "JavaScript Algorithms and Data Structures",
+          "provider": "freeCodeCamp",
+          "free": true
+        },
+        {
+          "name": "Oracle Certified Professional: Java SE 17 Developer",
+          "provider": "Oracle",
+          "free": false
+        },
+        {
+          "name": "AWS Certified Developer - Associate",
+          "provider": "AWS",
+          "free": false
+        }
+      ],
+      "traits": [
+        "code",
+        "math"
+      ],
+      "courses": [
+        {
+          "title": "The Odin Project",
+          "url": "https://www.theodinproject.com/",
+          "cost": "Free"
+        },
+        {
+          "title": "freeCodeCamp",
+          "url": "https://www.freecodecamp.org/learn/",
+          "cost": "Free"
+        },
+        {
+          "title": "Meta Back-End Developer Certificate",
+          "url": "https://www.coursera.org/professional-certificates/meta-back-end-developer",
+          "cost": "Medium"
+        }
+      ]
+    },
+    {
+      "name": "Data Analyst",
+      "area": "Data & Analytics",
+      "skills": [
+        "Excel",
+        "SQL",
+        "Statistics",
+        "Python",
+        "Data Visualization",
+        "Power BI"
+      ],
+      "professional": [
+        "Business understanding",
+        "Presenting insights",
+        "Attention to detail",
+        "Stakeholder communication"
+      ],
+      "projects": [
+        "Sales dashboard in Power BI",
+        "Customer churn analysis with SQL and Python",
+        "Exploratory analysis of a public dataset"
+      ],
+      "certifications": [
+        {
+          "name": "Kaggle Learn course certificates",
+          "provider": "Kaggle",
+          "free": true
+        },
+        {
+          "name": "Google Data Analytics Professional Certificate",
+          "provider": "Google / Coursera",
+          "free": false
+        },
+        {
+          "name": "Power BI Data Analyst (PL-300)",
+          "provider": "Microsoft",
+          "free": false
+        }
+      ],
+      "traits": [
+        "data",
+        "organize"
+      ],
+      "courses": [
+        {
+          "title": "Kaggle Learn",
+          "url": "https://www.kaggle.com/learn",
+          "cost": "Free"
+        },
+        {
+          "title": "freeCodeCamp Data Analysis",
+          "url": "https://www.freecodecamp.org/learn/",
+          "cost": "Free"
+        },
+        {
+          "title": "Google Data Analytics Certificate",
+          "url": "https://www.coursera.org/professional-certificates/google-data-analytics",
+          "cost": "Medium"
+        }
+      ]
+    },
+    {
+      "name": "Machine Learning Engineer",
+      "area": "AI/ML",
+      "skills": [
+        "Python",
+        "Statistics",
+        "Linear Algebra",
+        "Machine Learning",
+        "DSA",
+        "Deep Learning",
+        "Model Deployment"
+      ],
+      "professional": [
+        "Experiment discipline",
+        "Explaining models simply",
+        "Research reading",
+        "Teamwork"
+      ],
+      "projects": [
+        "House price prediction model",
+        "Image classifier with a CNN",
+        "Model served as a FastAPI service"
+      ],
+      "certifications": [
+        {
+          "name": "Kaggle Learn: Intro to Machine Learning",
+          "provider": "Kaggle",
+          "free": true
+        },
+        {
+          "name": "Machine Learning Specialization",
+          "provider": "DeepLearning.AI / Coursera",
+          "free": false
+        },
+        {
+          "name": "AWS Certified Machine Learning Engineer - Associate",
+          "provider": "AWS",
+          "free": false
+        }
+      ],
+      "traits": [
+        "math",
+        "data",
+        "code"
+      ],
+      "courses": [
+        {
+          "title": "Google Machine Learning Crash Course",
+          "url": "https://developers.google.com/machine-learning/crash-course",
+          "cost": "Free"
+        },
+        {
+          "title": "Practical Deep Learning - fast.ai",
+          "url": "https://course.fast.ai/",
+          "cost": "Free"
+        },
+        {
+          "title": "Machine Learning Specialization",
+          "url": "https://www.coursera.org/specializations/machine-learning-introduction",
+          "cost": "Medium"
+        }
+      ]
+    },
+    {
+      "name": "DevOps Engineer",
+      "area": "Cloud/DevOps",
+      "skills": [
+        "Linux",
+        "Networking",
+        "Git",
+        "Cloud Fundamentals",
+        "Docker",
+        "CI/CD",
+        "Kubernetes"
+      ],
+      "professional": [
+        "Troubleshooting",
+        "Documentation",
+        "Incident communication",
+        "Ownership"
+      ],
+      "projects": [
+        "Deploy a web app on a cloud VM",
+        "CI/CD pipeline with GitHub Actions",
+        "Containerised app on a local Kubernetes cluster"
+      ],
+      "certifications": [
+        {
+          "name": "AWS Certified Cloud Practitioner",
+          "provider": "AWS",
+          "free": false
+        },
+        {
+          "name": "Azure Fundamentals (AZ-900)",
+          "provider": "Microsoft",
+          "free": false
+        },
+        {
+          "name": "Certified Kubernetes Administrator (CKA)",
+          "provider": "CNCF",
+          "free": false
+        }
+      ],
+      "traits": [
+        "systems",
+        "code"
+      ],
+      "courses": [
+        {
+          "title": "roadmap.sh DevOps",
+          "url": "https://roadmap.sh/devops",
+          "cost": "Free"
+        },
+        {
+          "title": "AWS Skill Builder",
+          "url": "https://skillbuilder.aws/",
+          "cost": "Free"
+        }
+      ]
+    },
+    {
+      "name": "Cybersecurity Analyst",
+      "area": "Cybersecurity",
+      "skills": [
+        "Networking",
+        "Linux",
+        "Security Fundamentals",
+        "Python",
+        "SIEM",
+        "Incident Response"
+      ],
+      "professional": [
+        "Analytical thinking",
+        "Report writing",
+        "Calm under pressure",
+        "Ethics"
+      ],
+      "projects": [
+        "Home lab with firewall and log monitoring",
+        "Phishing email analysis report",
+        "Python script for log analysis"
+      ],
+      "certifications": [
+        {
+          "name": "Introduction to Cybersecurity",
+          "provider": "Cisco Networking Academy",
+          "free": true
+        },
+        {
+          "name": "CompTIA Security+",
+          "provider": "CompTIA",
+          "free": false
+        },
+        {
+          "name": "Google Cybersecurity Professional Certificate",
+          "provider": "Google / Coursera",
+          "free": false
+        }
+      ],
+      "traits": [
+        "security",
+        "systems"
+      ],
+      "courses": [
+        {
+          "title": "TryHackMe (free rooms)",
+          "url": "https://tryhackme.com/",
+          "cost": "Free"
+        },
+        {
+          "title": "Cisco Networking Academy",
+          "url": "https://www.netacad.com/",
+          "cost": "Free"
+        },
+        {
+          "title": "Google Cybersecurity Certificate",
+          "url": "https://www.coursera.org/professional-certificates/google-cybersecurity",
+          "cost": "Medium"
+        }
+      ]
+    },
+    {
+      "name": "Mobile App Developer",
+      "area": "Mobile Development",
+      "skills": [
+        "Programming Fundamentals",
+        "Git",
+        "DSA",
+        "Kotlin",
+        "Flutter",
+        "REST APIs",
+        "App Publishing"
+      ],
+      "professional": [
+        "User empathy",
+        "Problem solving",
+        "Teamwork",
+        "Clear technical communication"
+      ],
+      "projects": [
+        "Notes app with local storage",
+        "Weather app using a public API",
+        "Expense tracker released as a test build"
+      ],
+      "certifications": [
+        {
+          "name": "Android Basics with Compose (course badges)",
+          "provider": "Google",
+          "free": true
+        },
+        {
+          "name": "Meta Android Developer Professional Certificate",
+          "provider": "Meta / Coursera",
+          "free": false
+        }
+      ],
+      "traits": [
+        "code",
+        "mobile",
+        "users"
+      ],
+      "courses": [
+        {
+          "title": "Android Basics with Compose",
+          "url": "https://developer.android.com/courses/android-basics-compose/course",
+          "cost": "Free"
+        },
+        {
+          "title": "Flutter - Get Started",
+          "url": "https://docs.flutter.dev/get-started",
+          "cost": "Free"
+        },
+        {
+          "title": "Meta Android Developer Certificate",
+          "url": "https://www.coursera.org/professional-certificates/meta-android-developer",
+          "cost": "Medium"
+        }
+      ]
+    },
+    {
+      "name": "Digital Marketing Specialist",
+      "area": "Digital Marketing",
+      "skills": [
+        "Marketing Fundamentals",
+        "SEO",
+        "Google Ads",
+        "Google Analytics",
+        "Email Marketing",
+        "Content Marketing"
+      ],
+      "professional": [
+        "Creativity",
+        "Data-driven thinking",
+        "Client communication",
+        "Time management"
+      ],
+      "projects": [
+        "SEO audit of a local business website",
+        "Google Ads search campaign plan",
+        "Email newsletter campaign with results report"
+      ],
+      "certifications": [
+        {
+          "name": "Google Ads Search Certification",
+          "provider": "Google Skillshop",
+          "free": true
+        },
+        {
+          "name": "Google Analytics Certification",
+          "provider": "Google Skillshop",
+          "free": true
+        },
+        {
+          "name": "Inbound Marketing Certification",
+          "provider": "HubSpot Academy",
+          "free": true
+        }
+      ],
+      "traits": [
+        "promote",
+        "data",
+        "writing"
+      ],
+      "courses": [
+        {
+          "title": "Google Skillshop",
+          "url": "https://skillshop.withgoogle.com/",
+          "cost": "Free"
+        },
+        {
+          "title": "HubSpot Academy",
+          "url": "https://academy.hubspot.com/",
+          "cost": "Free"
+        },
+        {
+          "title": "Google Digital Marketing & E-commerce Certificate",
+          "url": "https://www.coursera.org/professional-certificates/google-digital-marketing-ecommerce",
+          "cost": "Medium"
+        }
+      ]
+    },
+    {
+      "name": "Social Media Manager",
+      "area": "Social Media Management",
+      "skills": [
+        "Social Media Strategy",
+        "Copywriting",
+        "Canva",
+        "Social Media Analytics",
+        "Paid Social Ads",
+        "Community Management"
+      ],
+      "professional": [
+        "Creativity",
+        "Consistency",
+        "Brand voice awareness",
+        "Quick response"
+      ],
+      "projects": [
+        "30-day content calendar for a brand",
+        "Monthly social media performance report",
+        "Paid social campaign plan with budget"
+      ],
+      "certifications": [
+        {
+          "name": "Social Media Marketing Certification",
+          "provider": "HubSpot Academy",
+          "free": true
+        },
+        {
+          "name": "Meta Certified Digital Marketing Associate",
+          "provider": "Meta",
+          "free": false
+        }
+      ],
+      "traits": [
+        "social",
+        "writing",
+        "visual"
+      ],
+      "courses": [
+        {
+          "title": "HubSpot Academy",
+          "url": "https://academy.hubspot.com/",
+          "cost": "Free"
+        },
+        {
+          "title": "Meta Blueprint",
+          "url": "https://www.facebook.com/business/learn",
+          "cost": "Free"
+        },
+        {
+          "title": "Meta Social Media Marketing Certificate",
+          "url": "https://www.coursera.org/professional-certificates/facebook-social-media-marketing",
+          "cost": "Medium"
+        }
+      ]
+    },
+    {
+      "name": "Content Creator",
+      "area": "Content Creation",
+      "skills": [
+        "Copywriting",
+        "Storytelling",
+        "SEO",
+        "Canva",
+        "Short-form Video",
+        "Social Media Analytics"
+      ],
+      "professional": [
+        "Consistency",
+        "Creativity",
+        "Audience empathy",
+        "Self-management"
+      ],
+      "projects": [
+        "Blog with five SEO-optimised articles",
+        "Series of ten short-form videos",
+        "Content portfolio page"
+      ],
+      "certifications": [
+        {
+          "name": "Content Marketing Certification",
+          "provider": "HubSpot Academy",
+          "free": true
+        },
+        {
+          "name": "SEO courses",
+          "provider": "Semrush Academy",
+          "free": true
+        }
+      ],
+      "traits": [
+        "writing",
+        "video",
+        "social"
+      ],
+      "courses": [
+        {
+          "title": "HubSpot Academy",
+          "url": "https://academy.hubspot.com/",
+          "cost": "Free"
+        },
+        {
+          "title": "YouTube Creators",
+          "url": "https://www.youtube.com/creators/",
+          "cost": "Free"
+        }
+      ]
+    },
+    {
+      "name": "Video Editor",
+      "area": "Video Editing",
+      "skills": [
+        "Editing Fundamentals",
+        "Premiere Pro",
+        "DaVinci Resolve",
+        "Audio Editing",
+        "Color Grading",
+        "Motion Graphics",
+        "Storytelling"
+      ],
+      "professional": [
+        "Attention to detail",
+        "Meeting deadlines",
+        "Taking feedback",
+        "Client communication"
+      ],
+      "projects": [
+        "Two-minute brand promo edit",
+        "Colour-graded short film scene",
+        "YouTube video with captions and motion titles"
+      ],
+      "certifications": [
+        {
+          "name": "Adobe Certified Professional - Premiere Pro",
+          "provider": "Adobe",
+          "free": false
+        }
+      ],
+      "traits": [
+        "video",
+        "visual"
+      ],
+      "courses": [
+        {
+          "title": "DaVinci Resolve Training",
+          "url": "https://www.blackmagicdesign.com/products/davinciresolve/training",
+          "cost": "Free"
+        },
+        {
+          "title": "Adobe Premiere Pro Tutorials",
+          "url": "https://helpx.adobe.com/premiere-pro/tutorials.html",
+          "cost": "Free"
+        }
+      ]
+    },
+    {
+      "name": "UI/UX Designer",
+      "area": "UI/UX Design",
+      "skills": [
+        "Design Principles",
+        "User Research",
+        "Wireframing & Prototyping",
+        "Figma",
+        "Usability Testing",
+        "Accessibility"
+      ],
+      "professional": [
+        "Empathy",
+        "Presenting design decisions",
+        "Taking feedback",
+        "Collaboration with developers"
+      ],
+      "projects": [
+        "Mobile app redesign case study",
+        "Usability test report of a website",
+        "Clickable Figma prototype"
+      ],
+      "certifications": [
+        {
+          "name": "Google UX Design Professional Certificate",
+          "provider": "Google / Coursera",
+          "free": false
+        },
+        {
+          "name": "UX Certification",
+          "provider": "Nielsen Norman Group",
+          "free": false
+        }
+      ],
+      "traits": [
+        "users",
+        "visual"
+      ],
+      "courses": [
+        {
+          "title": "Nielsen Norman Group Articles",
+          "url": "https://www.nngroup.com/articles/",
+          "cost": "Free"
+        },
+        {
+          "title": "Laws of UX",
+          "url": "https://lawsofux.com/",
+          "cost": "Free"
+        },
+        {
+          "title": "Google UX Design Certificate",
+          "url": "https://www.coursera.org/professional-certificates/google-ux-design",
+          "cost": "Medium"
+        }
+      ]
+    },
+    {
+      "name": "Accountant",
+      "area": "Finance/Accounting",
+      "skills": [
+        "Accounting Principles",
+        "Excel",
+        "Financial Statements",
+        "Taxation Basics",
+        "Financial Modeling"
+      ],
+      "professional": [
+        "Accuracy",
+        "Integrity",
+        "Deadline management",
+        "Clear reporting"
+      ],
+      "projects": [
+        "Bookkeeping for a sample small business",
+        "Financial statement analysis of a listed company",
+        "Three-statement model in Excel"
+      ],
+      "certifications": [
+        {
+          "name": "Financial Modeling & Valuation Analyst (FMVA)",
+          "provider": "CFI",
+          "free": false
+        },
+        {
+          "name": "ACCA Qualification",
+          "provider": "ACCA",
+          "free": false
+        },
+        {
+          "name": "CFA Level I",
+          "provider": "CFA Institute",
+          "free": false
+        }
+      ],
+      "traits": [
+        "money",
+        "data"
+      ],
+      "courses": [
+        {
+          "title": "AccountingCoach",
+          "url": "https://www.accountingcoach.com/",
+          "cost": "Free"
+        },
+        {
+          "title": "CFI Free Resources",
+          "url": "https://corporatefinanceinstitute.com/resources/",
+          "cost": "Free"
+        }
+      ]
+    },
+    {
+      "name": "HR Recruiter",
+      "area": "HR/Recruitment",
+      "skills": [
+        "Recruitment Process",
+        "Candidate Sourcing",
+        "Interviewing",
+        "Employment Law Basics",
+        "Onboarding",
+        "Excel"
+      ],
+      "professional": [
+        "Interpersonal skills",
+        "Confidentiality",
+        "Negotiation",
+        "Organisation"
+      ],
+      "projects": [
+        "Job description and hiring plan for a role",
+        "Structured interview question bank",
+        "Onboarding checklist and 30-day plan"
+      ],
+      "certifications": [
+        {
+          "name": "SHRM Certified Professional (SHRM-CP)",
+          "provider": "SHRM",
+          "free": false
+        },
+        {
+          "name": "Associate Professional in Human Resources (aPHR)",
+          "provider": "HRCI",
+          "free": false
+        }
+      ],
+      "traits": [
+        "people",
+        "organize"
+      ],
+      "courses": [
+        {
+          "title": "SHRM Resources",
+          "url": "https://www.shrm.org/",
+          "cost": "Free"
+        },
+        {
+          "title": "LinkedIn Talent Blog",
+          "url": "https://www.linkedin.com/business/talent/blog",
+          "cost": "Free"
+        }
+      ]
+    },
+    {
+      "name": "Business Operations Analyst",
+      "area": "Business/Operations",
+      "skills": [
+        "Excel",
+        "Process Improvement",
+        "Project Management",
+        "Supply Chain Basics",
+        "Power BI",
+        "SQL"
+      ],
+      "professional": [
+        "Planning",
+        "Stakeholder communication",
+        "Decision making",
+        "Ownership"
+      ],
+      "projects": [
+        "Process map with improvement proposal",
+        "Inventory tracking dashboard",
+        "Project plan with timeline and risks"
+      ],
+      "certifications": [
+        {
+          "name": "Google Project Management Certificate",
+          "provider": "Google / Coursera",
+          "free": false
+        },
+        {
+          "name": "Certified Associate in Project Management (CAPM)",
+          "provider": "PMI",
+          "free": false
+        },
+        {
+          "name": "Lean Six Sigma Yellow Belt",
+          "provider": "Various providers",
+          "free": false
+        }
+      ],
+      "traits": [
+        "organize",
+        "data",
+        "people"
+      ],
+      "courses": [
+        {
+          "title": "Atlassian Agile Coach",
+          "url": "https://www.atlassian.com/agile",
+          "cost": "Free"
+        },
+        {
+          "title": "ASQ Quality Resources",
+          "url": "https://asq.org/quality-resources",
+          "cost": "Free"
+        },
+        {
+          "title": "Google Project Management Certificate",
+          "url": "https://www.coursera.org/professional-certificates/google-project-management",
+          "cost": "Medium"
+        }
+      ]
+    },
+    {
+      "name": "Graphic Designer",
+      "area": "Graphic Design",
+      "skills": [
+        "Design Principles",
+        "Typography",
+        "Color Theory",
+        "Photoshop",
+        "Illustrator",
+        "Canva",
+        "Branding"
+      ],
+      "professional": [
+        "Creativity",
+        "Taking feedback",
+        "Meeting deadlines",
+        "Client communication"
+      ],
+      "projects": [
+        "Brand identity kit for a small business",
+        "Poster series for an event",
+        "Social media template pack"
+      ],
+      "certifications": [
+        {
+          "name": "Adobe Certified Professional - Graphic Design & Illustration",
+          "provider": "Adobe",
+          "free": false
+        }
+      ],
+      "traits": [
+        "visual",
+        "promote"
+      ],
+      "courses": [
+        {
+          "title": "Canva Design School",
+          "url": "https://www.canva.com/designschool/",
+          "cost": "Free"
+        },
+        {
+          "title": "Adobe Photoshop Tutorials",
+          "url": "https://helpx.adobe.com/photoshop/tutorials.html",
+          "cost": "Free"
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "Programming Fundamentals": {
+      "keywords": [
+        "programming",
+        "oop",
+        "object-oriented"
+      ],
+      "resource": {
+        "title": "CS50x - Harvard",
+        "url": "https://cs50.harvard.edu/x/",
+        "format": "Course",
+        "level": "Beginner",
+        "length": "Long",
+        "cost": "Free"
+      }
+    },
+    "Git": {
+      "keywords": [
+        "git",
+        "github",
+        "version control"
+      ],
+      "resource": {
+        "title": "Pro Git book",
+        "url": "https://git-scm.com/book/en/v2",
+        "format": "Reading",
+        "level": "Beginner",
+        "length": "Long",
+        "cost": "Free"
+      }
+    },
+    "DSA": {
+      "keywords": [
+        "data structures",
+        "algorithms",
+        "dsa"
+      ],
+      "resource": {
+        "title": "NeetCode Roadmap",
+        "url": "https://neetcode.io/roadmap",
+        "format": "Hands-on",
+        "level": "Intermediate",
+        "length": "Long",
+        "cost": "Free"
+      }
+    },
+    "SQL": {
+      "keywords": [
+        "sql",
+        "mysql",
+        "postgresql"
+      ],
+      "resource": {
+        "title": "SQLBolt",
+        "url": "https://sqlbolt.com/",
+        "format": "Hands-on",
+        "level": "Beginner",
+        "length": "Short",
+        "cost": "Free"
+      }
+    },
+    "JavaScript": {
+      "keywords": [
+        "javascript",
+        "typescript"
+      ],
+      "resource": {
+        "title": "The Modern JavaScript Tutorial",
+        "url": "https://javascript.info/",
+        "format": "Reading",
+        "level": "Beginner",
+        "length": "Long",
+        "cost": "Free"
+      }
+    },
+    "REST APIs": {
+      "keywords": [
+        "rest api",
+        "restful",
+        "api",
+        "apis"
+      ],
+      "resource": {
+        "title": "MDN - HTTP",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP",
+        "format": "Reading",
+        "level": "Beginner",
+        "length": "Short",
+        "cost": "Free"
+      }
+    },
+    "Software Testing": {
+      "keywords": [
+        "unit testing",
+        "unit tests",
+        "software testing"
+      ],
+      "resource": {
+        "title": "The Practical Test Pyramid",
+        "url": "https://martinfowler.com/articles/practical-test-pyramid.html",
+        "format": "Reading",
+        "level": "Intermediate",
+        "length": "Short",
+        "cost": "Free"
+      }
+    },
+    "Excel": {
+      "keywords": [
+        "excel",
+        "spreadsheets",
+        "vlookup",
+        "pivot tables"
+      ],
+      "resource": {
+        "title": "Exceljet",
+        "url": "https://exceljet.net/",
+        "format": "Reading",
+        "level": "Beginner",
+        "length": "Short",
+        "cost": "Free"
+      }
+    },
+    "Statistics": {
+      "keywords": [
+        "statistics",
+        "statistical",
+        "hypothesis testing"
+      ],
+      "resource": {
+        "title": "Khan Academy - Statistics",
+        "url": "https://www.khanacademy.org/math/statistics-probability",
+        "format": "Video",
+        "level": "Beginner",
+        "length": "Long",
+        "cost": "Free"
+      }
+    },
+    "Python": {
+      "keywords": [
+        "python",
+        "pandas",
+        "numpy"
+      ],
+      "resource": {
+        "title": "Official Python Tutorial",
+        "url": "https://docs.python.org/3/tutorial/",
+        "format": "Reading",
+        "level": "Beginner",
+        "length": "Long",
+        "cost": "Free"
+      }
+    },
+    "Data Visualization": {
+      "keywords": [
+        "data visualization",
+        "data visualisation",
+        "dashboards",
+        "tableau"
+      ],
+      "resource": {
+        "title": "Kaggle Learn - Data Visualization",
+        "url": "https://www.kaggle.com/learn/data-visualization",
+        "format": "Hands-on",
+        "level": "Beginner",
+        "length": "Short",
+        "cost": "Free"
+      }
+    },
+    "Power BI": {
+      "keywords": [
+        "power bi",
+        "dax"
+      ],
+      "resource": {
+        "title": "Microsoft Learn - Power BI",
+        "url": "https://learn.microsoft.com/en-us/training/powerplatform/power-bi",
+        "format": "Course",
+        "level": "Beginner",
+        "length": "Long",
+        "cost": "Free"
+      }
+    },
+    "Linear Algebra": {
+      "keywords": [
+        "linear algebra",
+        "matrices",
+        "vectors"
+      ],
+      "resource": {
+        "title": "Khan Academy - Linear Algebra",
+        "url": "https://www.khanacademy.org/math/linear-algebra",
+        "format": "Video",
+        "level": "Beginner",
+        "length": "Long",
+        "cost": "Free"
+      }
+    },
+    "Machine Learning": {
+      "keywords": [
+        "machine learning",
+        "scikit-learn",
+        "sklearn"
+      ],
+      "resource": {
+        "title": "Google Machine Learning Crash Course",
+        "url": "https://developers.google.com/machine-learning/crash-course",
+        "format": "Course",
+        "level": "Beginner",
+        "length": "Long",
+        "cost": "Free"
+      }
+    },
+    "Deep Learning": {
+      "keywords": [
+        "deep learning",
+        "neural networks",
+        "pytorch",
+        "tensorflow"
+      ],
+      "resource": {
+        "title": "Practical Deep Learning - fast.ai",
+        "url": "https://course.fast.ai/",
+        "format": "Course",
+        "level": "Intermediate",
+        "length": "Long",
+        "cost": "Free"
+      }
+    },
+    "Model Deployment": {
+      "keywords": [
+        "model deployment",
+        "mlops",
+        "fastapi",
+        "flask"
+      ],
+      "resource": {
+        "title": "FastAPI Tutorial",
+        "url": "https://fastapi.tiangolo.com/tutorial/",
+        "format": "Hands-on",
+        "level": "Intermediate",
+        "length": "Short",
+        "cost": "Free"
+      }
+    },
+    "Linux": {
+      "keywords": [
+        "linux",
+        "bash",
+        "shell scripting",
+        "unix"
+      ],
+      "resource": {
+        "title": "Linux Journey",
+        "url": "https://linuxjourney.com/",
+        "format": "Hands-on",
+        "level": "Beginner",
+        "length": "Short",
+        "cost": "Free"
+      }
+    },
+    "Networking": {
+      "keywords": [
+        "networking",
+        "tcp/ip",
+        "dns"
+      ],
+      "resource": {
+        "title": "Cloudflare Learning Center",
+        "url": "https://www.cloudflare.com/learning/",
+        "format": "Reading",
+        "level": "Beginner",
+        "length": "Short",
+        "cost": "Free"
+      }
+    },
+    "Cloud Fundamentals": {
+      "keywords": [
+        "aws",
+        "azure",
+        "gcp",
+        "cloud computing"
+      ],
+      "resource": {
+        "title": "AWS Skill Builder",
+        "url": "https://skillbuilder.aws/",
+        "format": "Course",
+        "level": "Beginner",
+        "length": "Long",
+        "cost": "Free"
+      }
+    },
+    "Docker": {
+      "keywords": [
+        "docker",
+        "containers",
+        "containerization"
+      ],
+      "resource": {
+        "title": "Docker - Get Started",
+        "url": "https://docs.docker.com/get-started/",
+        "format": "Hands-on",
+        "level": "Beginner",
+        "length": "Short",
+        "cost": "Free"
+      }
+    },
+    "CI/CD": {
+      "keywords": [
+        "ci/cd",
+        "jenkins",
+        "github actions",
+        "continuous integration"
+      ],
+      "resource": {
+        "title": "GitHub Actions Docs",
+        "url": "https://docs.github.com/en/actions",
+        "format": "Reading",
+        "level": "Intermediate",
+        "length": "Short",
+        "cost": "Free"
+      }
+    },
+    "Kubernetes": {
+      "keywords": [
+        "kubernetes",
+        "k8s"
+      ],
+      "resource": {
+        "title": "Kubernetes Basics",
+        "url": "https://kubernetes.io/docs/tutorials/kubernetes-basics/",
+        "format": "Hands-on",
+        "level": "Intermediate",
+        "length": "Short",
+        "cost": "Free"
+      }
+    },
+    "Security Fundamentals": {
+      "keywords": [
+        "cybersecurity",
+        "information security",
+        "cia triad",
+        "vulnerability management",
+        "encryption"
+      ],
+      "resource": {
+        "title": "TryHackMe (free rooms)",
+        "url": "https://tryhackme.com/",
+        "format": "Hands-on",
+        "level": "Beginner",
+        "length": "Long",
+        "cost": "Free"
+      }
+    },
+    "SIEM": {
+      "keywords": [
+        "siem",
+        "splunk",
+        "sentinel"
+      ],
+      "resource": {
+        "title": "Splunk Free Training",
+        "url": "https://www.splunk.com/en_us/training/free-courses/overview.html",
+        "format": "Course",
+        "level": "Beginner",
+        "length": "Long",
+        "cost": "Free"
+      }
+    },
+    "Incident Response": {
+      "keywords": [
+        "incident response",
+        "soc",
+        "forensics"
+      ],
+      "resource": {
+        "title": "NIST SP 800-61 Incident Response",
+        "url": "https://csrc.nist.gov/pubs/sp/800/61/r3/final",
+        "format": "Reading",
+        "level": "Intermediate",
+        "length": "Short",
+        "cost": "Free"
+      }
+    },
+    "Kotlin": {
+      "keywords": [
+        "kotlin",
+        "android",
+        "jetpack compose"
+      ],
+      "resource": {
+        "title": "Android Basics with Compose",
+        "url": "https://developer.android.com/courses/android-basics-compose/course",
+        "format": "Course",
+        "level": "Beginner",
+        "length": "Long",
+        "cost": "Free"
+      }
+    },
+    "Flutter": {
+      "keywords": [
+        "flutter",
+        "dart"
+      ],
+      "resource": {
+        "title": "Flutter - Get Started",
+        "url": "https://docs.flutter.dev/get-started",
+        "format": "Hands-on",
+        "level": "Beginner",
+        "length": "Short",
+        "cost": "Free"
+      }
+    },
+    "App Publishing": {
+      "keywords": [
+        "play store",
+        "app store",
+        "app publishing"
+      ],
+      "resource": {
+        "title": "Android - Publish your app",
+        "url": "https://developer.android.com/studio/publish",
+        "format": "Reading",
+        "level": "Intermediate",
+        "length": "Short",
+        "cost": "Free"
+      }
+    },
+    "Marketing Fundamentals": {
+      "keywords": [
+        "digital marketing",
+        "marketing strategy",
+        "marketing funnel",
+        "target audience"
+      ],
+      "resource": {
+        "title": "HubSpot Academy (free courses)",
+        "url": "https://academy.hubspot.com/",
+        "format": "Course",
+        "level": "Beginner",
+        "length": "Long",
+        "cost": "Free"
+      }
+    },
+    "SEO": {
+      "keywords": [
+        "seo",
+        "search engine optimization",
+        "keyword research"
+      ],
+      "resource": {
+        "title": "Google SEO Starter Guide",
+        "url": "https://developers.google.com/search/docs/fundamentals/seo-starter-guide",
+        "format": "Reading",
+        "level": "Beginner",
+        "length": "Short",
+        "cost": "Free"
+      }
+    },
+    "Google Ads": {
+      "keywords": [
+        "google ads",
+        "ppc",
+        "sem",
+        "paid search"
+      ],
+      "resource": {
+        "title": "Google Skillshop",
+        "url": "https://skillshop.withgoogle.com/",
+        "format": "Course",
+        "level": "Beginner",
+        "length": "Long",
+        "cost": "Free"
+      }
+    },
+    "Google Analytics": {
+      "keywords": [
+        "google analytics",
+        "ga4",
+        "web analytics"
+      ],
+      "resource": {
+        "title": "Google Analytics Help Center",
+        "url": "https://support.google.com/analytics",
+        "format": "Reading",
+        "level": "Beginner",
+        "length": "Short",
+        "cost": "Free"
+      }
+    },
+    "Email Marketing": {
+      "keywords": [
+        "email marketing",
+        "mailchimp",
+        "newsletter"
+      ],
+      "resource": {
+        "title": "HubSpot Academy (free courses)",
+        "url": "https://academy.hubspot.com/",
+        "format": "Course",
+        "level": "Beginner",
+        "length": "Long",
+        "cost": "Free"
+      }
+    },
+    "Content Marketing": {
+      "keywords": [
+        "content marketing",
+        "content strategy"
+      ],
+      "resource": {
+        "title": "HubSpot Academy (free courses)",
+        "url": "https://academy.hubspot.com/",
+        "format": "Course",
+        "level": "Beginner",
+        "length": "Long",
+        "cost": "Free"
+      }
+    },
+    "Social Media Strategy": {
+      "keywords": [
+        "social media strategy",
+        "social media marketing",
+        "content calendar"
+      ],
+      "resource": {
+        "title": "HubSpot Academy (free courses)",
+        "url": "https://academy.hubspot.com/",
+        "format": "Course",
+        "level": "Beginner",
+        "length": "Long",
+        "cost": "Free"
+      }
+    },
+    "Copywriting": {
+      "keywords": [
+        "copywriting",
+        "copywriter",
+        "content writing"
+      ],
+      "resource": {
+        "title": "Copyblogger",
+        "url": "https://copyblogger.com/",
+        "format": "Reading",
+        "level": "Beginner",
+        "length": "Short",
+        "cost": "Free"
+      }
+    },
+    "Canva": {
+      "keywords": [
+        "canva"
+      ],
+      "resource": {
+        "title": "Canva Design School",
+        "url": "https://www.canva.com/designschool/",
+        "format": "Video",
+        "level": "Beginner",
+        "length": "Short",
+        "cost": "Free"
+      }
+    },
+    "Social Media Analytics": {
+      "keywords": [
+        "social media analytics",
+        "engagement rate",
+        "social analytics"
+      ],
+      "resource": {
+        "title": "Meta Blueprint",
+        "url": "https://www.facebook.com/business/learn",
+        "format": "Course",
+        "level": "Beginner",
+        "length": "Long",
+        "cost": "Free"
+      }
+    },
+    "Paid Social Ads": {
+      "keywords": [
+        "meta ads",
+        "facebook ads",
+        "instagram ads",
+        "paid social"
+      ],
+      "resource": {
+        "title": "Meta Blueprint",
+        "url": "https://www.facebook.com/business/learn",
+        "format": "Course",
+        "level": "Beginner",
+        "length": "Long",
+        "cost": "Free"
+      }
+    },
+    "Community Management": {
+      "keywords": [
+        "community management",
+        "community manager",
+        "moderation"
+      ],
+      "resource": {
+        "title": "Meta Blueprint",
+        "url": "https://www.facebook.com/business/learn",
+        "format": "Course",
+        "level": "Beginner",
+        "length": "Long",
+        "cost": "Free"
+      }
+    },
+    "Storytelling": {
+      "keywords": [
+        "storytelling",
+        "scriptwriting",
+        "script writing"
+      ],
+      "resource": {
+        "title": "Khan Academy - Pixar Storytelling",
+        "url": "https://www.khanacademy.org/computing/pixar/storytelling",
+        "format": "Video",
+        "level": "Beginner",
+        "length": "Short",
+        "cost": "Free"
+      }
+    },
+    "Short-form Video": {
+      "keywords": [
+        "reels",
+        "shorts",
+        "tiktok",
+        "short-form video"
+      ],
+      "resource": {
+        "title": "YouTube Creators",
+        "url": "https://www.youtube.com/creators/",
+        "format": "Video",
+        "level": "Beginner",
+        "length": "Short",
+        "cost": "Free"
+      }
+    },
+    "Editing Fundamentals": {
+      "keywords": [
+        "video editing",
+        "video editor",
+        "b-roll"
+      ],
+      "resource": {
+        "title": "DaVinci Resolve Training",
+        "url": "https://www.blackmagicdesign.com/products/davinciresolve/training",
+        "format": "Hands-on",
+        "level": "Beginner",
+        "length": "Long",
+        "cost": "Free"
+      }
+    },
+    "Premiere Pro": {
+      "keywords": [
+        "premiere pro",
+        "adobe premiere"
+      ],
+      "resource": {
+        "title": "Adobe Premiere Pro Tutorials",
+        "url": "https://helpx.adobe.com/premiere-pro/tutorials.html",
+        "format": "Hands-on",
+        "level": "Beginner",
+        "length": "Short",
+        "cost": "Free"
+      }
+    },
+    "DaVinci Resolve": {
+      "keywords": [
+        "davinci resolve",
+        "davinci"
+      ],
+      "resource": {
+        "title": "DaVinci Resolve Training",
+        "url": "https://www.blackmagicdesign.com/products/davinciresolve/training",
+        "format": "Hands-on",
+        "level": "Beginner",
+        "length": "Long",
+        "cost": "Free"
+      }
+    },
+    "Audio Editing": {
+      "keywords": [
+        "audio editing",
+        "sound design",
+        "audio mixing",
+        "audacity"
+      ],
+      "resource": {
+        "title": "Audacity Manual",
+        "url": "https://manual.audacityteam.org/",
+        "format": "Reading",
+        "level": "Beginner",
+        "length": "Short",
+        "cost": "Free"
+      }
+    },
+    "Color Grading": {
+      "keywords": [
+        "color grading",
+        "colour grading",
+        "color correction"
+      ],
+      "resource": {
+        "title": "DaVinci Resolve Training",
+        "url": "https://www.blackmagicdesign.com/products/davinciresolve/training",
+        "format": "Hands-on",
+        "level": "Beginner",
+        "length": "Long",
+        "cost": "Free"
+      }
+    },
+    "Motion Graphics": {
+      "keywords": [
+        "motion graphics",
+        "after effects"
+      ],
+      "resource": {
+        "title": "Adobe After Effects Tutorials",
+        "url": "https://helpx.adobe.com/after-effects/tutorials.html",
+        "format": "Hands-on",
+        "level": "Beginner",
+        "length": "Short",
+        "cost": "Free"
+      }
+    },
+    "Design Principles": {
+      "keywords": [
+        "design principles",
+        "visual hierarchy",
+        "layout design"
+      ],
+      "resource": {
+        "title": "Laws of UX",
+        "url": "https://lawsofux.com/",
+        "format": "Reading",
+        "level": "Beginner",
+        "length": "Short",
+        "cost": "Free"
+      }
+    },
+    "User Research": {
+      "keywords": [
+        "user research",
+        "user interviews",
+        "personas"
+      ],
+      "resource": {
+        "title": "Nielsen Norman Group Articles",
+        "url": "https://www.nngroup.com/articles/",
+        "format": "Reading",
+        "level": "Intermediate",
+        "length": "Short",
+        "cost": "Free"
+      }
+    },
+    "Wireframing & Prototyping": {
+      "keywords": [
+        "wireframe",
+        "wireframes",
+        "wireframing",
+        "prototype",
+        "prototyping"
+      ],
+      "resource": {
+        "title": "Balsamiq Learn",
+        "url": "https://balsamiq.com/learn/",
+        "format": "Reading",
+        "level": "Beginner",
+        "length": "Short",
+        "cost": "Free"
+      }
+    },
+    "Figma": {
+      "keywords": [
+        "figma"
+      ],
+      "resource": {
+        "title": "Figma Help Center",
+        "url": "https://help.figma.com/hc/en-us",
+        "format": "Reading",
+        "level": "Beginner",
+        "length": "Short",
+        "cost": "Free"
+      }
+    },
+    "Usability Testing": {
+      "keywords": [
+        "usability testing",
+        "user testing"
+      ],
+      "resource": {
+        "title": "NN/g - Usability Testing 101",
+        "url": "https://www.nngroup.com/articles/usability-testing-101/",
+        "format": "Reading",
+        "level": "Beginner",
+        "length": "Short",
+        "cost": "Free"
+      }
+    },
+    "Accessibility": {
+      "keywords": [
+        "accessibility",
+        "wcag",
+        "a11y"
+      ],
+      "resource": {
+        "title": "W3C Accessibility Fundamentals",
+        "url": "https://www.w3.org/WAI/fundamentals/",
+        "format": "Reading",
+        "level": "Beginner",
+        "length": "Short",
+        "cost": "Free"
+      }
+    },
+    "Accounting Principles": {
+      "keywords": [
+        "accounting",
+        "bookkeeping",
+        "journal entries",
+        "gaap",
+        "ifrs"
+      ],
+      "resource": {
+        "title": "AccountingCoach",
+        "url": "https://www.accountingcoach.com/",
+        "format": "Reading",
+        "level": "Beginner",
+        "length": "Long",
+        "cost": "Free"
+      }
+    },
+    "Financial Statements": {
+      "keywords": [
+        "financial statements",
+        "balance sheet",
+        "income statement",
+        "cash flow"
+      ],
+      "resource": {
+        "title": "CFI Free Resources",
+        "url": "https://corporatefinanceinstitute.com/resources/",
+        "format": "Reading",
+        "level": "Intermediate",
+        "length": "Short",
+        "cost": "Free"
+      }
+    },
+    "Taxation Basics": {
+      "keywords": [
+        "taxation",
+        "income tax",
+        "gst",
+        "vat"
+      ],
+      "resource": {
+        "title": "Investopedia",
+        "url": "https://www.investopedia.com/",
+        "format": "Reading",
+        "level": "Beginner",
+        "length": "Short",
+        "cost": "Free"
+      }
+    },
+    "Financial Modeling": {
+      "keywords": [
+        "financial modeling",
+        "financial modelling",
+        "valuation",
+        "dcf"
+      ],
+      "resource": {
+        "title": "CFI Free Resources",
+        "url": "https://corporatefinanceinstitute.com/resources/",
+        "format": "Reading",
+        "level": "Intermediate",
+        "length": "Short",
+        "cost": "Free"
+      }
+    },
+    "Recruitment Process": {
+      "keywords": [
+        "recruitment",
+        "recruiting",
+        "talent acquisition"
+      ],
+      "resource": {
+        "title": "SHRM Resources",
+        "url": "https://www.shrm.org/",
+        "format": "Reading",
+        "level": "Intermediate",
+        "length": "Short",
+        "cost": "Free"
+      }
+    },
+    "Candidate Sourcing": {
+      "keywords": [
+        "sourcing",
+        "boolean search",
+        "linkedin recruiter"
+      ],
+      "resource": {
+        "title": "LinkedIn Talent Blog",
+        "url": "https://www.linkedin.com/business/talent/blog",
+        "format": "Reading",
+        "level": "Beginner",
+        "length": "Short",
+        "cost": "Free"
+      }
+    },
+    "Interviewing": {
+      "keywords": [
+        "interviewing",
+        "candidate screening",
+        "phone screening"
+      ],
+      "resource": {
+        "title": "SHRM Resources",
+        "url": "https://www.shrm.org/",
+        "format": "Reading",
+        "level": "Intermediate",
+        "length": "Short",
+        "cost": "Free"
+      }
+    },
+    "Employment Law Basics": {
+      "keywords": [
+        "labour law",
+        "labor law",
+        "employment law",
+        "hr compliance"
+      ],
+      "resource": {
+        "title": "International Labour Organization",
+        "url": "https://www.ilo.org/",
+        "format": "Reading",
+        "level": "Intermediate",
+        "length": "Short",
+        "cost": "Free"
+      }
+    },
+    "Onboarding": {
+      "keywords": [
+        "onboarding",
+        "induction"
+      ],
+      "resource": {
+        "title": "SHRM Resources",
+        "url": "https://www.shrm.org/",
+        "format": "Reading",
+        "level": "Intermediate",
+        "length": "Short",
+        "cost": "Free"
+      }
+    },
+    "Process Improvement": {
+      "keywords": [
+        "process improvement",
+        "lean",
+        "six sigma",
+        "kaizen"
+      ],
+      "resource": {
+        "title": "ASQ Quality Resources",
+        "url": "https://asq.org/quality-resources",
+        "format": "Reading",
+        "level": "Intermediate",
+        "length": "Short",
+        "cost": "Free"
+      }
+    },
+    "Project Management": {
+      "keywords": [
+        "project management",
+        "agile",
+        "scrum",
+        "jira"
+      ],
+      "resource": {
+        "title": "Atlassian Agile Coach",
+        "url": "https://www.atlassian.com/agile",
+        "format": "Reading",
+        "level": "Beginner",
+        "length": "Short",
+        "cost": "Free"
+      }
+    },
+    "Supply Chain Basics": {
+      "keywords": [
+        "supply chain",
+        "inventory",
+        "logistics",
+        "procurement"
+      ],
+      "resource": {
+        "title": "MITx Supply Chain Management",
+        "url": "https://micromasters.mit.edu/scm/",
+        "format": "Course",
+        "level": "Intermediate",
+        "length": "Long",
+        "cost": "Free"
+      }
+    },
+    "Typography": {
+      "keywords": [
+        "typography",
+        "typefaces",
+        "fonts"
+      ],
+      "resource": {
+        "title": "Practical Typography",
+        "url": "https://practicaltypography.com/",
+        "format": "Reading",
+        "level": "Beginner",
+        "length": "Short",
+        "cost": "Free"
+      }
+    },
+    "Color Theory": {
+      "keywords": [
+        "color theory",
+        "colour theory"
+      ],
+      "resource": {
+        "title": "IxDF - Color Theory",
+        "url": "https://www.interaction-design.org/literature/topics/color-theory",
+        "format": "Reading",
+        "level": "Beginner",
+        "length": "Short",
+        "cost": "Free"
+      }
+    },
+    "Photoshop": {
+      "keywords": [
+        "photoshop"
+      ],
+      "resource": {
+        "title": "Adobe Photoshop Tutorials",
+        "url": "https://helpx.adobe.com/photoshop/tutorials.html",
+        "format": "Hands-on",
+        "level": "Beginner",
+        "length": "Short",
+        "cost": "Free"
+      }
+    },
+    "Illustrator": {
+      "keywords": [
+        "illustrator",
+        "vector graphics"
+      ],
+      "resource": {
+        "title": "Adobe Illustrator Tutorials",
+        "url": "https://helpx.adobe.com/illustrator/tutorials.html",
+        "format": "Hands-on",
+        "level": "Beginner",
+        "length": "Short",
+        "cost": "Free"
+      }
+    },
+    "Branding": {
+      "keywords": [
+        "branding",
+        "brand identity",
+        "brand guidelines"
+      ],
+      "resource": {
+        "title": "Canva Design School",
+        "url": "https://www.canva.com/designschool/",
+        "format": "Video",
+        "level": "Beginner",
+        "length": "Short",
+        "cost": "Free"
+      }
+    }
+  }
+}
